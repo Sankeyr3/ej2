@@ -71,6 +71,6 @@
         android:layout_height="40dp"
         android:background="@color/purple_500"
         app:layout_constraintTop_toBottomOf="@id/c1"
-        app:layout_constraintRight_toLeftOf="@id/c3"/>
+        app:layout_constraintRight_toLeftOf="@id/c3" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
