@@ -66,7 +66,7 @@
         app:layout_constraintTop_toBottomOf="@id/c1"
         app:layout_constraintLeft_toRightOf="@id/c2"/>
     <View
-        android:id="@+id/p3"
+        android:id="@+id/p4"
         android:layout_width="40dp"
         android:layout_height="40dp"
         android:background="@color/purple_500"
